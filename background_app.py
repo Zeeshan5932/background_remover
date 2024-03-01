@@ -38,7 +38,7 @@ st.sidebar.markdown("""
 """, unsafe_allow_html=True)
 
 
-st.write("Remove background from your image")
+st.write("## Remove background from your image")
 st.write(
     ":🐶: Try uploading an image to watch the background magically removed. Full quality images can be downloaded from the sidebar. This code is open source and available [here](https://github.com/Zeeshan5932/background_remover) on GitHub. Special thanks to the [rembg library](https://github.com/danielgatis/rembg) :grin:"
 )
